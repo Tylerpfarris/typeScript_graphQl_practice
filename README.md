@@ -1,0 +1,1 @@
+# typeScript_graphQl_practice
